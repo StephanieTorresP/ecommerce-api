@@ -7,7 +7,7 @@ Proyecto backend de tienda en línea con Laravel 12 y MySQL, que incluye gestió
 Sigue estos pasos en la terminal:
 
 1. Clona el repositorio y entra a la carpeta:
-   git clone https://github.com
+   git clone https://github.com/StephanieTorresP/ecommerce-api.git
    cd ecommerce-api
 
 2. Instala dependencias:
